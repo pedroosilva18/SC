@@ -1,0 +1,2 @@
+Fork - cria o processo. Se for 1, cria 2 processos, um pai e filho. Se for 2, cria 4 processos, Um pai cria 2 filhos, e um filho cria outro. Cada processo já existente cria um novo processo. 2^n
+numero de processos assegura o numero minimo de cores -> se executa 2 processos e 4 com o mesmo tempo, mas demora mais para executar 8 processos, entao o numero minimo sao 4 cores
